@@ -1,0 +1,1 @@
+Git was originally created by Linus Torvalds for version control in the development of the Linux kernel.[14] The trademark "Git" is registered by the Software Freedom Conservancy.
